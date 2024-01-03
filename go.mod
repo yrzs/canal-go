@@ -1,4 +1,4 @@
-module github.com/withlin/canal-go
+module github.com/yrzs/canal-go
 
 require (
 	github.com/go-zookeeper/zk v1.0.3
